@@ -25,7 +25,7 @@
     "eslint-config-react-app": "6.0.0",
     "monoreact": "0.35.0",
     "prettier": "3.2.5",
-    "tslib": "2.6.2",
+    "tslib": "2.6.3",
     "typescript": "5.5.3"
   }
 }
